@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "14884624350",
+    "project_id": "that-esp",
+    "storage_bucket": "that-esp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14884624350:android:bf4dd4774ffe7bd2f16f4f",
+        "android_client_info": {
+          "package_name": "com.example.esp_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14884624350-vrd8nr8d7p6p4i5ms5jeorjkbge41aq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRimD4AB8hSwC6I9PgnTH9i9p7k76D8RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14884624350-vrd8nr8d7p6p4i5ms5jeorjkbge41aq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14884624350:android:4ce05d5bd24aedc0f16f4f",
+        "android_client_info": {
+          "package_name": "com.example.fucking_esp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14884624350-vrd8nr8d7p6p4i5ms5jeorjkbge41aq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRimD4AB8hSwC6I9PgnTH9i9p7k76D8RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14884624350-vrd8nr8d7p6p4i5ms5jeorjkbge41aq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
